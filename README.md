@@ -7,7 +7,7 @@ This repository contains a Stata-based empirical project examining the relations
 ```text
 code/
     original_code.do
-    01_build_analysis.do
+    final code.do
 
 data/
     raw/
