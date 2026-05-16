@@ -8,7 +8,7 @@ Inputs:
     data/raw/GFCF.csv
     data/raw/democracy-index-polity.csv
     data/raw/mean-years-of-schooling-long-run.csv
-    data/raw/democracy-index-polity extension.csv
+    data/raw/democracy-index-polity extend.csv
 
 Outputs:
     data/clean/
