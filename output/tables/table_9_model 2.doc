@@ -1,0 +1,43 @@
+{\rtf1\fs24
+\pard\qc
+Table 9: Democracy and GDP Growth (Model 2)\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3456\clbrdrt\brdrs\cellx4896\clbrdrt\brdrs\cellx6480\clbrdrt\brdrs\cellx9504
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx4896\cellx6480\cellx9504
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx9504
+\ql VARIABLES\cell\qc No FE\cell\qc Country FE\cell\qc Country FE + Year FE\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx4896\cellx6480\cellx9504
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql stdDem\cell\qc 0.263\cell\qc 0.297\cell\qc 0.319\cell\row
+\ql \cell\qc (0.162)\cell\qc (0.180)\cell\qc (0.239)\cell\row
+\ql educ\cell\qc 0.0516\cell\qc -0.0444\cell\qc 0.112\cell\row
+\ql \cell\qc (0.0706)\cell\qc (0.0980)\cell\qc (0.167)\cell\row
+\ql c.stdDem#c.educ\cell\qc 0.0326\cell\qc 0.0592\cell\qc 0.0334\cell\row
+\ql \cell\qc (0.0433)\cell\qc (0.0441)\cell\qc (0.0542)\cell\row
+\ql L.growthrate\cell\qc 0.187***\cell\qc 0.143**\cell\qc 0.135*\cell\row
+\ql \cell\qc (0.0643)\cell\qc (0.0676)\cell\qc (0.0714)\cell\row
+\ql L2.growthrate\cell\qc 0.0680***\cell\qc 0.0309\cell\qc 0.0224\cell\row
+\ql \cell\qc (0.0199)\cell\qc (0.0217)\cell\qc (0.0236)\cell\row
+\ql L3.growthrate\cell\qc 0.135***\cell\qc 0.0891***\cell\qc 0.0963***\cell\row
+\ql \cell\qc (0.0277)\cell\qc (0.0300)\cell\qc (0.0340)\cell\row
+\ql gfcf\cell\qc 0.0526**\cell\qc 0.0621**\cell\qc 0.0760**\cell\row
+\ql \cell\qc (0.0247)\cell\qc (0.0286)\cell\qc (0.0301)\cell\row
+\ql tradeopen\cell\qc 0.00438*\cell\qc -0.00619\cell\qc -0.0119\cell\row
+\ql \cell\qc (0.00221)\cell\qc (0.00838)\cell\qc (0.00889)\cell\row
+\ql Constant\cell\qc -0.832*\cell\qc 0.0979\cell\qc 1.556\cell\row
+\ql \cell\qc (0.481)\cell\qc (0.980)\cell\qc (1.345)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 2,276\cell\qc 2,276\cell\qc 2,276\cell\row
+\ql R-squared\cell\qc 0.120\cell\qc 0.050\cell\qc 0.099\cell\row
+\ql Country FE\cell\qc No\cell\qc Yes\cell\qc Yes\cell\row
+\ql Year FE\cell\qc No\cell\qc No\cell\qc Yes\cell\row
+\ql Growth Lags\cell\qc 3\cell\qc 3\cell\qc 3\cell\row
+\ql Controls\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Missing Indicators\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql SE clustered by country\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx9504
+\ql Number of country_id\cell\qc \cell\qc 54\cell\qc 54\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

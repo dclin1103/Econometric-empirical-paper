@@ -1,0 +1,54 @@
+{\rtf1\fs24
+\pard\qc
+Table 11: Growth Rate and stdDem Lag Chekcs\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3456\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6624\clbrdrt\brdrs\cellx8208\clbrdrt\brdrs\cellx9792
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx5040\cellx6624\cellx8208\cellx9792
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6624\clbrdrb\brdrs\cellx8208\clbrdrb\brdrs\cellx9792
+\ql VARIABLES\cell\qc growthrate\cell\qc growthrate\cell\qc growthrate\cell\qc growthrate\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx5040\cellx6624\cellx8208\cellx9792
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql stdDem\cell\qc 0.370\cell\qc 0.378\cell\qc 0.364\cell\qc 0.380\cell\row
+\ql \cell\qc (0.403)\cell\qc (0.408)\cell\qc (0.402)\cell\qc (0.378)\cell\row
+\ql L.stdDem\cell\qc 0.0434\cell\qc -0.00383\cell\qc 0.0151\cell\qc 0.0126\cell\row
+\ql \cell\qc (0.555)\cell\qc (0.559)\cell\qc (0.543)\cell\qc (0.512)\cell\row
+\ql L2.stdDem\cell\qc 0.0642\cell\qc 0.0459\cell\qc 0.0305\cell\qc 0.0141\cell\row
+\ql \cell\qc (0.468)\cell\qc (0.455)\cell\qc (0.450)\cell\qc (0.453)\cell\row
+\ql L3.stdDem\cell\qc -0.598\cell\qc -0.512\cell\qc -0.508\cell\qc -0.565\cell\row
+\ql \cell\qc (0.509)\cell\qc (0.489)\cell\qc (0.493)\cell\qc (0.505)\cell\row
+\ql L4.stdDem\cell\qc 0.442\cell\qc 0.384\cell\qc 0.393\cell\qc 0.652*\cell\row
+\ql \cell\qc (0.432)\cell\qc (0.425)\cell\qc (0.427)\cell\qc (0.353)\cell\row
+\ql L5.stdDem\cell\qc 0.271\cell\qc 0.310\cell\qc 0.309\cell\qc \cell\row
+\ql \cell\qc (0.318)\cell\qc (0.320)\cell\qc (0.320)\cell\qc \cell\row
+\ql L.growthrate\cell\qc 0.124*\cell\qc 0.125*\cell\qc 0.126*\cell\qc 0.135*\cell\row
+\ql \cell\qc (0.0700)\cell\qc (0.0694)\cell\qc (0.0728)\cell\qc (0.0714)\cell\row
+\ql L2.growthrate\cell\qc 0.0225\cell\qc 0.0214\cell\qc 0.0216\cell\qc 0.0226\cell\row
+\ql \cell\qc (0.0223)\cell\qc (0.0224)\cell\qc (0.0233)\cell\qc (0.0235)\cell\row
+\ql L3.growthrate\cell\qc 0.0930***\cell\qc 0.0912***\cell\qc 0.0936***\cell\qc 0.0966***\cell\row
+\ql \cell\qc (0.0301)\cell\qc (0.0293)\cell\qc (0.0333)\cell\qc (0.0340)\cell\row
+\ql L4.growthrate\cell\qc 0.0123\cell\qc 0.0178\cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.0524)\cell\qc (0.0543)\cell\qc \cell\qc \cell\row
+\ql L5.growthrate\cell\qc 0.00585\cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.0322)\cell\qc \cell\qc \cell\qc \cell\row
+\ql educ\cell\qc 0.118\cell\qc 0.160\cell\qc 0.160\cell\qc 0.166\cell\row
+\ql \cell\qc (0.140)\cell\qc (0.137)\cell\qc (0.139)\cell\qc (0.131)\cell\row
+\ql gfcf\cell\qc 0.0655*\cell\qc 0.0745**\cell\qc 0.0761**\cell\qc 0.0770**\cell\row
+\ql \cell\qc (0.0345)\cell\qc (0.0328)\cell\qc (0.0298)\cell\qc (0.0297)\cell\row
+\ql tradeopen\cell\qc -0.0138\cell\qc -0.0131\cell\qc -0.0132\cell\qc -0.0121\cell\row
+\ql \cell\qc (0.00863)\cell\qc (0.00903)\cell\qc (0.00926)\cell\qc (0.00884)\cell\row
+\ql Constant\cell\qc 1.086\cell\qc 0.157\cell\qc 0.182\cell\qc 1.426\cell\row
+\ql \cell\qc (1.250)\cell\qc (1.387)\cell\qc (1.403)\cell\qc (1.266)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 2,170\cell\qc 2,222\cell\qc 2,222\cell\qc 2,276\cell\row
+\ql R-squared\cell\qc 0.096\cell\qc 0.097\cell\qc 0.097\cell\qc 0.100\cell\row
+\ql Number of country_id\cell\qc 52\cell\qc 52\cell\qc 52\cell\qc 54\cell\row
+\ql Country FE\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Year FE\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Controls\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Missing Indicators\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6624\clbrdrb\brdrs\cellx8208\clbrdrb\brdrs\cellx9792
+\ql SE clustered by country\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

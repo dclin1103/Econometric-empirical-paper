@@ -1,0 +1,43 @@
+{\rtf1\fs24
+\pard\qc
+Table 10: Baseline regression of two models\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3456\clbrdrt\brdrs\cellx4896\clbrdrt\brdrs\cellx6336
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx4896\cellx6336
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx6336
+\ql VARIABLES\cell\qc Model 1\cell\qc Model 2\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx4896\cellx6336
+\ql \cell\qc \cell\qc \cell\row
+\ql stdDem\cell\qc 0.413***\cell\qc 0.319\cell\row
+\ql \cell\qc (0.153)\cell\qc (0.239)\cell\row
+\ql educ\cell\qc 0.160\cell\qc 0.112\cell\row
+\ql \cell\qc (0.132)\cell\qc (0.167)\cell\row
+\ql c.stdDem#c.educ\cell\qc \cell\qc 0.0334\cell\row
+\ql \cell\qc \cell\qc (0.0542)\cell\row
+\ql L.growthrate\cell\qc 0.135*\cell\qc 0.135*\cell\row
+\ql \cell\qc (0.0714)\cell\qc (0.0714)\cell\row
+\ql L2.growthrate\cell\qc 0.0225\cell\qc 0.0224\cell\row
+\ql \cell\qc (0.0237)\cell\qc (0.0236)\cell\row
+\ql L3.growthrate\cell\qc 0.0965***\cell\qc 0.0963***\cell\row
+\ql \cell\qc (0.0341)\cell\qc (0.0340)\cell\row
+\ql gfcf\cell\qc 0.0762**\cell\qc 0.0760**\cell\row
+\ql \cell\qc (0.0301)\cell\qc (0.0301)\cell\row
+\ql tradeopen\cell\qc -0.0117\cell\qc -0.0119\cell\row
+\ql \cell\qc (0.00885)\cell\qc (0.00889)\cell\row
+\ql Constant\cell\qc 1.414\cell\qc 1.556\cell\row
+\ql \cell\qc (1.257)\cell\qc (1.345)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 2,276\cell\qc 2,276\cell\row
+\ql R-squared\cell\qc 0.099\cell\qc 0.099\cell\row
+\ql Number of country_id\cell\qc 54\cell\qc 54\cell\row
+\ql Country FE\cell\qc Yes\cell\qc Yes\cell\row
+\ql Year FE\cell\qc Yes\cell\qc Yes\cell\row
+\ql Growth Lags\cell\qc 3\cell\qc 3\cell\row
+\ql Controls\cell\qc Yes\cell\qc Yes\cell\row
+\ql Missing Indicators\cell\qc Yes\cell\qc Yes\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx4896\clbrdrb\brdrs\cellx6336
+\ql SE clustered by country\cell\qc Yes\cell\qc Yes\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}

@@ -1,0 +1,46 @@
+{\rtf1\fs24
+\pard\qc
+Table 11: Continue\par
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx3456\clbrdrt\brdrs\cellx5040\clbrdrt\brdrs\cellx6624\clbrdrt\brdrs\cellx8208\clbrdrt\brdrs\cellx9792
+\ql \cell\qc (1)\cell\qc (2)\cell\qc (3)\cell\qc (4)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx5040\cellx6624\cellx8208\cellx9792
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6624\clbrdrb\brdrs\cellx8208\clbrdrb\brdrs\cellx9792
+\ql VARIABLES\cell\qc growthrate\cell\qc growthrate\cell\qc growthrate\cell\qc growthrate\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx3456\cellx5040\cellx6624\cellx8208\cellx9792
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql stdDem\cell\qc 0.396\cell\qc 0.398\cell\qc 0.398\cell\qc 0.413***\cell\row
+\ql \cell\qc (0.379)\cell\qc (0.378)\cell\qc (0.377)\cell\qc (0.153)\cell\row
+\ql L.stdDem\cell\qc 0.0310\cell\qc 0.0290\cell\qc 0.0176\cell\qc \cell\row
+\ql \cell\qc (0.514)\cell\qc (0.513)\cell\qc (0.362)\cell\qc \cell\row
+\ql L2.stdDem\cell\qc -0.0356\cell\qc -0.0127\cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.452)\cell\qc (0.330)\cell\qc \cell\qc \cell\row
+\ql L3.stdDem\cell\qc 0.0253\cell\qc \cell\qc \cell\qc \cell\row
+\ql \cell\qc (0.308)\cell\qc \cell\qc \cell\qc \cell\row
+\ql L.growthrate\cell\qc 0.135*\cell\qc 0.135*\cell\qc 0.135*\cell\qc 0.135*\cell\row
+\ql \cell\qc (0.0715)\cell\qc (0.0715)\cell\qc (0.0714)\cell\qc (0.0714)\cell\row
+\ql L2.growthrate\cell\qc 0.0225\cell\qc 0.0225\cell\qc 0.0225\cell\qc 0.0225\cell\row
+\ql \cell\qc (0.0236)\cell\qc (0.0236)\cell\qc (0.0237)\cell\qc (0.0237)\cell\row
+\ql L3.growthrate\cell\qc 0.0965***\cell\qc 0.0965***\cell\qc 0.0965***\cell\qc 0.0965***\cell\row
+\ql \cell\qc (0.0340)\cell\qc (0.0341)\cell\qc (0.0341)\cell\qc (0.0341)\cell\row
+\ql educ\cell\qc 0.161\cell\qc 0.160\cell\qc 0.160\cell\qc 0.160\cell\row
+\ql \cell\qc (0.132)\cell\qc (0.132)\cell\qc (0.132)\cell\qc (0.132)\cell\row
+\ql gfcf\cell\qc 0.0762**\cell\qc 0.0762**\cell\qc 0.0762**\cell\qc 0.0762**\cell\row
+\ql \cell\qc (0.0299)\cell\qc (0.0300)\cell\qc (0.0301)\cell\qc (0.0301)\cell\row
+\ql tradeopen\cell\qc -0.0118\cell\qc -0.0118\cell\qc -0.0118\cell\qc -0.0117\cell\row
+\ql \cell\qc (0.00886)\cell\qc (0.00889)\cell\qc (0.00886)\cell\qc (0.00885)\cell\row
+\ql Constant\cell\qc 1.414\cell\qc 1.415\cell\qc 1.414\cell\qc 1.414\cell\row
+\ql \cell\qc (1.262)\cell\qc (1.259)\cell\qc (1.257)\cell\qc (1.257)\cell\row
+\ql \cell\qc \cell\qc \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 2,276\cell\qc 2,276\cell\qc 2,276\cell\qc 2,276\cell\row
+\ql R-squared\cell\qc 0.099\cell\qc 0.099\cell\qc 0.099\cell\qc 0.099\cell\row
+\ql Number of country_id\cell\qc 54\cell\qc 54\cell\qc 54\cell\qc 54\cell\row
+\ql Country FE\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Year FE\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Controls\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\ql Missing Indicators\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx3456\clbrdrb\brdrs\cellx5040\clbrdrb\brdrs\cellx6624\clbrdrb\brdrs\cellx8208\clbrdrb\brdrs\cellx9792
+\ql SE clustered by country\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\qc Yes\cell\row
+\pard\qc
+Robust standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
