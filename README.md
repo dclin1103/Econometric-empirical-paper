@@ -39,12 +39,17 @@ paper/
 
 ## How to Run
 
-Open Stata and set the working directory to the repository root:
-
+Open `code/final_code.do` and replace the placeholder path in the first `cd` command with your local repository path:
 ```stata
 cd "/your/path/to/Econometric-empirical-paper"
+```
+Then run the do file in Stata:
+
+```stata
 do code/final_code.do
 ```
+
+The path should point to the repository root folder.
 
 The do file assumes that the working directory is the repository root. It uses relative paths to read raw data and export generated outputs.
 
