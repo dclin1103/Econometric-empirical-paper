@@ -56,7 +56,7 @@ The do file assumes that the working directory is the repository root. It uses r
 - `output/tables/table_outcome.pdf`: Combined table output from the empirical analysis.
 - `output/figures/`: Generated figures.
 - `output/logs/final code.log`: Log file from a successful run of the Stata workflow.
-- `paper/democracy_growth_writing_sample.pdf`: Polished writing sample based on the empirical project.
+- `Econometrics Empirical paper.pdf`: Polished writing sample based on the empirical project.
 
 ## Writing Sample
 
